@@ -22,3 +22,6 @@ Attendee roles:
 Events Page:
 View all events.
 Registrations Page
+I can modify the application if you have an idea about this application. You can also feel free to modify this application. 
+
+- Sayed Mobin Sadat
